@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="go_to_explicit_activity">Go to Explicit Activity 👉🏻</string>
+    <string name="go_to_implicit_activity">Go to Implicit Activity 👉🏻</string>
+    <string name="go_to_photo_gallery">Select a Photo 🖼️</string>
+    <string name="btn_okay">Во ред</string>
+    <string name="btn_cancel">Откажи</string>
+    <string name="textview">TextView</string>
+    <string name="created_by">203235 - Dimitrija Timeski</string>
+    <string name="activityImplicitTitle">Registered Activities</string>
+</resources>
